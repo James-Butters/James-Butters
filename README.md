@@ -1,4 +1,4 @@
-## Hi there 👋
+## MSc Economics Student at the University of Manchester
 
 <!--
 **James-Butters/James-Butters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
